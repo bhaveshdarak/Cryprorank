@@ -37,8 +37,10 @@ a:hover{
 }
 .routes{
     padding: 20px; 
+    background: rgb(4,2,3);
+    background: linear-gradient(41deg, rgba(4,2,3,1) 0%, rgba(95,189,218,0.21474527310924374) 30%);
     /* background-color: rgb(123, 165, 233); */
-    background-color: rgb(111, 91, 245); 
+    /* background-color: rgb(111, 91, 245);  */
 }
 .nav-container{
     position: fixed;
